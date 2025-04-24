@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0372-super-pow](https://github.com/Alinazim363/LeetCode-problems/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Greedy
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Alinazim363/LeetCode-problems/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
