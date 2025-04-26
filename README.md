@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Alinazim363/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Alinazim363/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Alinazim363/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Alinazim363/LeetCode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/Alinazim363/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String
 |  |
