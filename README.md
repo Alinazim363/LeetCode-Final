@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Alinazim363/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/Alinazim363/LeetCode-problems/tree/master/0372-super-pow) |
@@ -156,4 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Alinazim363/LeetCode-problems/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
