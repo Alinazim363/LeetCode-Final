@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Alinazim363/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Alinazim363/LeetCode-problems/tree/master/0231-power-of-two) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Alinazim363/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/Alinazim363/LeetCode-problems/tree/master/0231-power-of-two) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Alinazim363/LeetCode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
