@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
+| [1755-defuse-the-bomb](https://github.com/Alinazim363/LeetCode-problems/tree/master/1755-defuse-the-bomb) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Alinazim363/LeetCode-problems/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Divide and Conquer
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Alinazim363/LeetCode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1755-defuse-the-bomb](https://github.com/Alinazim363/LeetCode-problems/tree/master/1755-defuse-the-bomb) |
 ## Math
 |  |
 | ------- |
