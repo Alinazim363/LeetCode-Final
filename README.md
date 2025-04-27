@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Alinazim363/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Alinazim363/LeetCode-problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Alinazim363/LeetCode-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Alinazim363/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Alinazim363/LeetCode-problems/tree/master/0231-power-of-two) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Alinazim363/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Alinazim363/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Alinazim363/LeetCode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
