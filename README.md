@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Alinazim363/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Alinazim363/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/Alinazim363/LeetCode-problems/tree/master/0372-super-pow) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Alinazim363/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Alinazim363/LeetCode-problems/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Alinazim363/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Alinazim363/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
