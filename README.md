@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Alinazim363/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Alinazim363/LeetCode-problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Alinazim363/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Alinazim363/LeetCode-problems/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Alinazim363/LeetCode-problems/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Alinazim363/LeetCode-problems/tree/master/0231-power-of-two) |
