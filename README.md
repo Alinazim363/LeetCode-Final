@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1250-longest-common-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Alinazim363/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0064-minimum-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
