@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Alinazim363/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Alinazim363/LeetCode-problems/tree/master/0056-merge-intervals) |
+| [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Alinazim363/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Alinazim363/LeetCode-problems/tree/master/0372-super-pow) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Alinazim363/LeetCode-problems/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Recursion
 |  |
@@ -135,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
