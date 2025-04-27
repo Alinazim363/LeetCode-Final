@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Alinazim363/LeetCode-problems/tree/master/0372-super-pow) |
+| [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Alinazim363/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/Alinazim363/LeetCode-problems/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Alinazim363/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
