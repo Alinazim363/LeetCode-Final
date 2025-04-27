@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Alinazim363/LeetCode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Alinazim363/LeetCode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0044-wildcard-matching) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Alinazim363/LeetCode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0045-jump-game-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
