@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Alinazim363/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [1250-longest-common-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Alinazim363/LeetCode-problems/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
