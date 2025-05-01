@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Alinazim363/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Alinazim363/LeetCode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Alinazim363/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Alinazim363/LeetCode-problems/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Alinazim363/LeetCode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/Alinazim363/LeetCode-problems/tree/master/1755-defuse-the-bomb) |
 ## Math
