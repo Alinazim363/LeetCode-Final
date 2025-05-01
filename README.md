@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Alinazim363/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Alinazim363/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Alinazim363/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Alinazim363/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1250-longest-common-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Alinazim363/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
 ## Memoization
 |  |
