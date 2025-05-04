@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Alinazim363/LeetCode-problems/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
@@ -255,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Alinazim363/LeetCode-problems/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
