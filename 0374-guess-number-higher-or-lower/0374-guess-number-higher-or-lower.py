@@ -16,9 +16,9 @@ class Solution:
         
             if res == 0:
                 return mid
-            elif res < 0:
+            elif res == -1:
                 right = mid - 1
             else:
                 left = mid + 1
 
-        return -1    
+        return left    
