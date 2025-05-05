@@ -260,4 +260,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Alinazim363/LeetCode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/1524-string-matching-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Alinazim363/LeetCode-problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Alinazim363/LeetCode-problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Alinazim363/LeetCode-problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Alinazim363/LeetCode-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
