@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Alinazim363/LeetCode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alinazim363/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Alinazim363/LeetCode-problems/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/Alinazim363/LeetCode-problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Alinazim363/LeetCode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alinazim363/LeetCode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Alinazim363/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Alinazim363/LeetCode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/Alinazim363/LeetCode-problems/tree/master/0372-super-pow) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Alinazim363/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Alinazim363/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Alinazim363/LeetCode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Alinazim363/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Alinazim363/LeetCode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Alinazim363/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Alinazim363/LeetCode-problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Alinazim363/LeetCode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Alinazim363/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Alinazim363/LeetCode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Alinazim363/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
 ## Memoization
