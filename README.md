@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Alinazim363/LeetCode-problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Alinazim363/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
