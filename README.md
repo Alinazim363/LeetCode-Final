@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0682-baseball-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0682-baseball-game) |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/Alinazim363/LeetCode-problems/tree/master/1755-defuse-the-bomb) |
@@ -239,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Alinazim363/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alinazim363/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
