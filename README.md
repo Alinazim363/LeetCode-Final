@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Alinazim363/LeetCode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Alinazim363/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/1524-string-matching-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0874-backspace-string-compare](https://github.com/Alinazim363/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -241,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Alinazim363/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Alinazim363/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Alinazim363/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
