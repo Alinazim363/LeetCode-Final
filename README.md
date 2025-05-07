@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Alinazim363/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Alinazim363/LeetCode-problems/tree/master/1755-defuse-the-bomb) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Alinazim363/LeetCode-problems/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Divide and Conquer
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## String
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
+| [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## Memoization
 |  |
 | ------- |
