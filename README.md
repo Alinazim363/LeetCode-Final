@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Alinazim363/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Alinazim363/LeetCode-problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Alinazim363/LeetCode-problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Alinazim363/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Alinazim363/LeetCode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Alinazim363/LeetCode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alinazim363/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alinazim363/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
