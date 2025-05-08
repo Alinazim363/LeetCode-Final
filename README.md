@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Alinazim363/LeetCode-problems/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Alinazim363/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3778-transform-array-by-parity](https://github.com/Alinazim363/LeetCode-problems/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3778-transform-array-by-parity](https://github.com/Alinazim363/LeetCode-problems/tree/master/3778-transform-array-by-parity) |
 ## Quickselect
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Alinazim363/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Alinazim363/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3778-transform-array-by-parity](https://github.com/Alinazim363/LeetCode-problems/tree/master/3778-transform-array-by-parity) |
 ## Memoization
 |  |
 | ------- |
