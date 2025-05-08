@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Alinazim363/LeetCode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Alinazim363/LeetCode-problems/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alinazim363/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2427-first-letter-to-appear-twice](https://github.com/Alinazim363/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## String
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Alinazim363/LeetCode-problems/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alinazim363/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Alinazim363/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Alinazim363/LeetCode-problems/tree/master/0342-power-of-four) |
 | [1873-longest-nice-substring](https://github.com/Alinazim363/LeetCode-problems/tree/master/1873-longest-nice-substring) |
+| [2427-first-letter-to-appear-twice](https://github.com/Alinazim363/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Alinazim363/LeetCode-problems/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Matrix
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Alinazim363/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Alinazim363/LeetCode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alinazim363/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2427-first-letter-to-appear-twice](https://github.com/Alinazim363/LeetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## Memoization
 |  |
