@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Alinazim363/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Alinazim363/LeetCode-problems/tree/master/0459-repeated-substring-pattern) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alinazim363/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1236-n-th-tribonacci-number) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Alinazim363/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Alinazim363/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 ## Prefix Sum
 |  |
