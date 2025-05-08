@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/Alinazim363/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Alinazim363/LeetCode-problems/tree/master/1755-defuse-the-bomb) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Alinazim363/LeetCode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Alinazim363/LeetCode-problems/tree/master/2482-maximum-rows-covered-by-columns) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Alinazim363/LeetCode-problems/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/Alinazim363/LeetCode-problems/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Alinazim363/LeetCode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Alinazim363/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Alinazim363/LeetCode-problems/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Alinazim363/LeetCode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Alinazim363/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Alinazim363/LeetCode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Brainteaser
 |  |
 | ------- |
