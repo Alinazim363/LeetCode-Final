@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Alinazim363/LeetCode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1848-sum-of-unique-elements](https://github.com/Alinazim363/LeetCode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Alinazim363/LeetCode-problems/tree/master/1873-longest-nice-substring) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alinazim363/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## String
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Alinazim363/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Alinazim363/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1873-longest-nice-substring](https://github.com/Alinazim363/LeetCode-problems/tree/master/1873-longest-nice-substring) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alinazim363/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Alinazim363/LeetCode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Alinazim363/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Alinazim363/LeetCode-problems/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alinazim363/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## Memoization
 |  |
