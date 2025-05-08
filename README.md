@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Alinazim363/LeetCode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/Alinazim363/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/Alinazim363/LeetCode-problems/tree/master/1720-crawler-log-folder) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alinazim363/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Alinazim363/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Alinazim363/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Alinazim363/LeetCode-problems/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Alinazim363/LeetCode-problems/tree/master/1236-n-th-tribonacci-number) |
