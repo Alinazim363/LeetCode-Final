@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Alinazim363/LeetCode-problems/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Alinazim363/LeetCode-problems/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Alinazim363/LeetCode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1848-sum-of-unique-elements](https://github.com/Alinazim363/LeetCode-problems/tree/master/1848-sum-of-unique-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Alinazim363/LeetCode-problems/tree/master/2482-maximum-rows-covered-by-columns) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Alinazim363/LeetCode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Alinazim363/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Alinazim363/LeetCode-problems/tree/master/1297-maximum-number-of-balloons) |
+| [1848-sum-of-unique-elements](https://github.com/Alinazim363/LeetCode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Alinazim363/LeetCode-problems/tree/master/1873-longest-nice-substring) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## String
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Alinazim363/LeetCode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Alinazim363/LeetCode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Alinazim363/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1848-sum-of-unique-elements](https://github.com/Alinazim363/LeetCode-problems/tree/master/1848-sum-of-unique-elements) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## Memoization
 |  |
