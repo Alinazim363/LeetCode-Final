@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Alinazim363/LeetCode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/Alinazim363/LeetCode-problems/tree/master/1720-crawler-log-folder) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Alinazim363/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1873-longest-nice-substring](https://github.com/Alinazim363/LeetCode-problems/tree/master/1873-longest-nice-substring) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Alinazim363/LeetCode-problems/tree/master/0948-sort-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Alinazim363/LeetCode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Alinazim363/LeetCode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Alinazim363/LeetCode-problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2433-best-poker-hand](https://github.com/Alinazim363/LeetCode-problems/tree/master/2433-best-poker-hand) |
 ## Memoization
 |  |
